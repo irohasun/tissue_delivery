@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299473813107",
+    "project_id": "tishdeliveryapp",
+    "storage_bucket": "tishdeliveryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299473813107:android:c70347fd364b1042057406",
+        "android_client_info": {
+          "package_name": "com.tish_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299473813107-1dpe6apu64pvdo1vrrbme43l0gdt123u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpiDKKfu4sNX_R1re3PYwYJ-f1ZOpasw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299473813107-1dpe6apu64pvdo1vrrbme43l0gdt123u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
